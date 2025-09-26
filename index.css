@@ -50,7 +50,7 @@ body{
     width: 1350px;
     height: 400px;
     border-radius: 5rem;
-    box-shadow: box-shadow: 10px 10px 15px rgb(255, 255, 255);
+    box-shadow: 10px 10px 15px rgba(255, 255, 255, 0.425);
 }
 
 #hunterImg{
@@ -117,5 +117,5 @@ p {
     height: 25pix;
     font-size: 120%;
     font-family: Arial, Helvetica, sans-serif;
-
 }
+
